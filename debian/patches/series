@@ -1,0 +1,7 @@
+04_workaround-SIGSEGV-on-PPC.patch
+05_fix-callgrind_control.patch
+08_fix-spelling-in-manpage.patch
+10_mpi-pkg-config.patch
+13_fix-path-to-vgdb.patch
+14_fix-armhf-ftbfs.patch
+armhf_neon.patch
